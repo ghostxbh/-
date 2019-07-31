@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-progress",
+  "description": "NodeJs基础-进阶实战",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghostxbh/nodejs-progress.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "ghostxbh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghostxbh/mall-admin-node/issues"
+  },
+  "homepage": "https://github.com/ghostxbh/mall-admin-node#readme"
+}
