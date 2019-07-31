@@ -320,3 +320,10 @@ tempFn();
 第一行代码只是改变了`fn`中的`this`为`obj`，并且给`fn`传递了两个参数值1、2，但是此时并没有把`fn`这个函数给执行，执行`bind`会有一个返回值，这个返回值`tempFn`就是把`fn`的`this`改变后的那个结果。
 
 **注意**：`bind`这个方法在IE6~8下不兼容。
+
+### 参考资料
+[mdn](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
+
+[深入call、apply、bind](https://www.jianshu.com/p/00dc4ad9b83f)
+### 源码示例
+[call-apply-bind](https://github.com/ghostxbh/nodejs-progress/blob/master/collect/js-base/call-apply-bind.js)
