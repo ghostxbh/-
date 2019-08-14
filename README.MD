@@ -8,3 +8,5 @@
 [nodejs的类](./collect/nodejs-base/node-class.md)
 
 [数组去重](https://github.com/ghostxbh/nodejs-progress/blob/master/collect/nodejs-base/array-no-duplication.js)
+
+[孤儿进程](https://github.com/ghostxbh/nodejs-progress/blob/master/collect/nodejs-base/orphan-process.js)
